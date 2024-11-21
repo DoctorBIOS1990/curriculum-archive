@@ -1,4 +1,4 @@
-# :books: Archivo de Curriculums
+# :books: Curriculum Archive
 This was a practice project. Developed in Delphi, RAD Studio 11.2
 
 <div align="center">
